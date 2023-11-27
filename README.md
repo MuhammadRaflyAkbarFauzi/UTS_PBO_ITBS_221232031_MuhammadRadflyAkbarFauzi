@@ -90,3 +90,5 @@ public class Main {
 }
 
 ![alt text](https://github.com/MuhammadRaflyAkbarFauzi/UTS_PBO_ITBS_221232031_MuhammadRadflyAkbarFauzi/blob/main/Screen%20Shot%202023-11-27%20at%2010.55.17%20AM.png?raw=true)
+
+![alt text](https://github.com/MuhammadRaflyAkbarFauzi/UTS_PBO_ITBS_221232031_MuhammadRadflyAkbarFauzi/blob/main/Screen%20Shot%202023-11-27%20at%2010.55.24%20AM.png?raw=true)
